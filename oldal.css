@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+body {
+    background-image:url(20190225torpebolygo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+h2,th,td,p,ol,ul {
+    color: aliceblue
+}
